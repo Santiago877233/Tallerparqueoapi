@@ -1,0 +1,16 @@
+{ 
+  "name": "paequeaderoapi",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "dev": "node --watch App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
